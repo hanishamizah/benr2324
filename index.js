@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 app.use(express.json())
 
 app.get('/', (req, res) => {
-   res.send('Hello World!')
+   res.send('BERR 2434 Database and Cloud')
 })
 
 app.listen(port, () => {
